@@ -3,18 +3,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package gitexemplo;
-
-/**
- *
- * @author wjrad
- */
 public class GitExemplo {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hello World");
     }
-    
 }
